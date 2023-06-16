@@ -1,11 +1,11 @@
-About r-oner
-============
+About r-oner-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-oner-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/vonjd/OneR
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-oner-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implements the One Rule (OneR) Machine Learning classification algorithm (Holte, R.C. (1993) <doi:10.1023/A:1022631118932>) with enhancements for sophisticated handling of numeric data and missing values together with extensive diagnostic functions. It is useful as a baseline for machine learning models and the rules are often helpful heuristics.
 
